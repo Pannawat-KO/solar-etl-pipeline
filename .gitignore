@@ -1,1 +1,8 @@
-   .env
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+log.txt
+
+# Generated pipeline output — regenerated on every run, not source
+data/
